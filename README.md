@@ -1,7 +1,3 @@
-# Sciences-U - B3 IW - PHP MVC - 2023
-
-## Démarrage
-
 ### Composer
 
 Pour récupérer les dépendances déclarées dans `composer.json` et générer l'autoloader PSR-4, exécuter la commande suivante :
